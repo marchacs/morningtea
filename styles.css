@@ -1,4 +1,23 @@
-.happy, .energized, .excited{color:#F97788;}
-.sad, .tired, .anxious{color:#81BFEF, }
+.happy, .energized, .excited{color:#F97788; font-family: 'Poppins', sans-serif;}
+.sad,.tired,.anxious{color:#81BFEF; font-family: 'Poppins', sans-serif;}
 
-.recs{color: #F79064;}
+.recs{color: #F79064;font-family: 'Poppins', sans-serif;}
+
+.dark{background-image:url(images/sadback.jpg)}
+
+.light{background-image: url(images/happyback.jpg)}
+
+.home{background-image: url(images/homebg.jpg)}
+
+.logo{width:18%;
+      display: block;
+  margin-left: auto;
+  margin-right: auto;
+     }
+
+nav{font-size: 25px;
+padding-bottom: 15px;}
+
+nav li{display: inline-block;
+    height: 100%;
+    padding: 10px;}
