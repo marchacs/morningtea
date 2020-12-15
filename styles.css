@@ -21,3 +21,8 @@ padding-bottom: 15px;}
 nav li{display: inline-block;
     height: 100%;
     padding: 10px;}
+
+container{padding-right: 80px;
+    padding-left:80px;
+    padding-top:50px;
+padding-bottom:50px;}
