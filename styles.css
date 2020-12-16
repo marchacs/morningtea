@@ -7,7 +7,7 @@
 
 .light{background-image: url(images/happyback.jpg)}
 
-.home{background-image: url(images/homebg.jpg)}
+.home{background-image: url(images/homeback.jpg)}
 
 .logo{width:18%;
       display: block;
@@ -16,7 +16,7 @@
      }
 
 nav{font-size: 25px;
-padding-bottom: 15px;}
+padding-bottom:5px;}
 
 nav li{display: inline-block;
     height: 100%;
@@ -26,3 +26,9 @@ container{padding-right: 80px;
     padding-left:80px;
     padding-top:50px;
 padding-bottom:50px;}
+
+p{font-size: 32px;}
+
+body{padding-bottom: 50px;
+        }
+
